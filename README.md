@@ -1,0 +1,1 @@
+Code to reproduce visualizations from Kambhatla et al. 2022, [Auxiliary Subword Segmentations as Related Languages for Low Resource Multilingual Translation](https://aclanthology.org/2022.eamt-1.16.pdf)
